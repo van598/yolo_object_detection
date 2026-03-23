@@ -1,0 +1,17 @@
+# ===== Virtual Environment =====
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+
+# ===== YOLO outputs =====
+runs/
+*.pt
+
+# ===== Images (uncomment if dataset is large) =====
+# images/
+
